@@ -1,0 +1,5 @@
+student = input('Enter name: ')
+print('Hello',student, 'Welcome to Pwani University')
+course = input('Enter your course: ')
+units = input('How many units do you have')
+print('Well',student, 'better pack your own heat')
