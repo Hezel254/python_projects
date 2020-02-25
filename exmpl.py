@@ -31,7 +31,7 @@ puffy = Cat("puffy",2)
 def get_biggest_number(*args):
     return max(args)
 #output
-    print("The oldest cat is{} years old".format(get_biggest_number(bruno.age,jasmin.age,puffy.age)))
+print("The oldest cat is{} years old".format(get_biggest_number(bruno.age,jasmin.age,puffy.age)))
 
 #PART 3
 
@@ -51,8 +51,8 @@ def get_biggest_number(*args):
 #    #call the instance method
 #    print(philo.description())
 #    print(philo.speak("Gruff Gruff"))
-#        
-    
+##        
+#    
 
 #class Dog():
 #    def __init__(self, breed):
